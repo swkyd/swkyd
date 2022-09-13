@@ -1,6 +1,6 @@
 <h2 align="center">AR & DART - DEVELOPER</h2>
 
-- 🌱 I’m currently learning: **Augmented reality (AR)**
+- 🌱 I’m currently learning: **ARKit**
 - ⚡ I'd like to make the world a better place... but. they won't give me the source code ((
 
 <p align="left">
